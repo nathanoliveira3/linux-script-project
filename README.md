@@ -6,7 +6,7 @@ This repository contains two shell scripts for Linux: `script.sh` and `script_ro
 
 To use these scripts, simply clone this repository to your local machine:
 
-`https://github.com/nathanoliveira3/linux-script-project.git`
+`git clone https://github.com/nathanoliveira3/linux-script-project.git`
 
 ## Usage
 
